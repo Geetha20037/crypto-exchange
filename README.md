@@ -48,24 +48,31 @@ CryptoX provides a professional cryptocurrency trading interface with market inf
 ## Project Sections
 
 ### Dashboard
+
 Displays portfolio summary, balance, available balance, and profit/loss information.
 
 ### Market Overview
+
 Displays cryptocurrency name, symbol, current price, 24h change, market cap, and trading volume.
 
 ### Trading Section
+
 Includes BTC/USDT trading, Buy/Sell tabs, amount and price inputs, order type selection, and trading buttons.
 
 ### Price Chart
+
 Displays cryptocurrency price movements with different time-period options.
 
 ### Order Book
+
 Displays buy orders, sell orders, price, amount, total, and current market price.
 
 ### Recent Transactions
+
 Displays transaction ID, cryptocurrency, type, amount, price, status, and date/time.
 
 ### Portfolio
+
 Displays total balance, available balance, profit/loss, asset allocation, and cryptocurrency holdings.
 
 ## Screenshots
@@ -76,11 +83,11 @@ Displays total balance, available balance, profit/loss, asset allocation, and cr
 
 ### Market Overview
 
-![Markets](./screenshots/markets.png)
+![Market Overview](./screenshots/markets.png)
 
 ### Trading Section
 
-![Trading](./screenshots/trading.png)
+![Trading Section](./screenshots/trading.png)
 
 ### Portfolio
 
@@ -88,7 +95,7 @@ Displays total balance, available balance, profit/loss, asset allocation, and cr
 
 ### Recent Transactions
 
-![Transactions](./screenshots/transactions.png)
+![Recent Transactions](./screenshots/transactions.png)
 
 ## Installation
 
